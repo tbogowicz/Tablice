@@ -1,0 +1,13 @@
+C:\Users\tumok\source\repos\Tablice\Tablice\bin\Debug\netcoreapp3.1\Tablice.exe
+C:\Users\tumok\source\repos\Tablice\Tablice\bin\Debug\netcoreapp3.1\Tablice.deps.json
+C:\Users\tumok\source\repos\Tablice\Tablice\bin\Debug\netcoreapp3.1\Tablice.runtimeconfig.json
+C:\Users\tumok\source\repos\Tablice\Tablice\bin\Debug\netcoreapp3.1\Tablice.runtimeconfig.dev.json
+C:\Users\tumok\source\repos\Tablice\Tablice\bin\Debug\netcoreapp3.1\Tablice.dll
+C:\Users\tumok\source\repos\Tablice\Tablice\bin\Debug\netcoreapp3.1\Tablice.pdb
+C:\Users\tumok\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.csprojAssemblyReference.cache
+C:\Users\tumok\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.AssemblyInfoInputs.cache
+C:\Users\tumok\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.AssemblyInfo.cs
+C:\Users\tumok\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.csproj.CoreCompileInputs.cache
+C:\Users\tumok\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.dll
+C:\Users\tumok\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.pdb
+C:\Users\tumok\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.genruntimeconfig.cache

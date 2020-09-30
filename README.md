@@ -1,0 +1,1 @@
+# generuje tablice i wypelnia losowymi znakami a nastepnie ja transponuje
